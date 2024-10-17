@@ -39,7 +39,7 @@
         <groovy-eclipse-batch.version>2.5.8-02</groovy-eclipse-batch.version>
         <project.build.verbose>true</project.build.verbose>
 
-        <groovy.version>3.0.1</groovy.version>
+        <groovy.version>3.0.7</groovy.version>
         <spring-boot.version>2.2.5.RELEASE</spring-boot.version>
     </properties>
 
